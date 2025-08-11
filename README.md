@@ -26,11 +26,9 @@
 - Tecnico en Informatica 
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
-
----
+- **Resoluciòn Estratègica**
+- **Comunicaciòn Efectiva**
+- **Organizaciòn y Creacciòn De Proyectos**
 
 ## 🎨 Formatos y Fuentes Disponibles
 
