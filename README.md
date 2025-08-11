@@ -28,7 +28,7 @@
 ## 💡 Habilidades
 - **Resoluciòn Estratègica**
 - **Comunicaciòn Efectiva**
-- **Organizaciòn y Creacciòn De Proyectos**
+- **Planificaciòn por Fases**
 
 ## 🎨 Formatos y Fuentes Disponibles
 
