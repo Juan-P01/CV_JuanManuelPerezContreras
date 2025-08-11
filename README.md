@@ -14,9 +14,7 @@
 - HTML
 - CSS
 - Java
-- Pseint
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+- Pseint   
 
 ## 🎓 Educación
 ### **Sena** _(2025 - 2027)_
