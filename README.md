@@ -1,24 +1,29 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Juan Manuel Pèrez Contreras 
+**Profesión:** _Analista y desarrollador de software
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [juanmanuelp.c04gmail.com](juanmanuelp.c04gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
+### **Sena** _(2025 - Actualidad)_
+- python
+- HTML
+- CSS
+- Java
+- Pseint
 ### **Empresa ABC** _(2018 - 2020)_
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Sena** _(2025 - 2027)_
+-Aprendiz Analisis Y Desarrollo De Software
+### **El Libertador** _(2023 - 2024)_
+- Tecnico en Programaciòn de Software.
+- Tecnico en Informatica 
 
 ## 💡 Habilidades
 - **Habilidad 1**
