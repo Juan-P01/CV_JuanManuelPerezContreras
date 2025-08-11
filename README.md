@@ -2,7 +2,6 @@
 # Hoja de Vida
 
 ## Juan Manuel Pèrez Contreras 
-**Profesión:** _Analista y desarrollador de software
 
 ## 📞 Contacto
 - **Email:** [juanmanuelp.c04gmail.com](juanmanuelp.c04gmail.com)
@@ -10,7 +9,7 @@
 
 ## 🏢 Experiencia Laboral
 ### **Sena** _(2025 - Actualidad)_
-- python
+- Python
 - HTML
 - CSS
 - Java
